@@ -1,0 +1,25 @@
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.formDesc{
+    color: brown;
+}
+.formInput{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 200px;
+}
+.inputContainer{
+    display: flex;
+    align-items: center;
+}
+.inputLabel{
+    display: flex;
+    width: 80px;
+}
+.formValues{
+    margin-top: 15px;
+}
